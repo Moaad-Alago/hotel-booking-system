@@ -38,7 +38,7 @@ A Python-based hotel booking system designed to simulate and manage hotel operat
 
 ##  Technologies Used
 
-- **Python 
+- **Python **
 - **Object-Oriented Programming (OOP)**
 - **JSON for data persistence**
 - **Command-Line Interface (CLI)**
