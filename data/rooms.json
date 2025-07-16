@@ -1,0 +1,33 @@
+[
+    {
+        "number": "102",
+        "room_type": "double",
+        "price": 150.0,
+        "available": true,
+        "features": []
+    },
+    {
+        "number": "101",
+        "room_type": "single",
+        "price": 100.0,
+        "available": false,
+        "features": []
+    },
+    {
+        "number": "1010",
+        "room_type": "double",
+        "price": 200.0,
+        "available": true,
+        "features": [
+            "Balcony",
+            "Smoking"
+        ]
+    },
+    {
+        "number": "9999",
+        "room_type": "single",
+        "price": 100.0,
+        "available": true,
+        "features": []
+    }
+]

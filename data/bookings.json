@@ -1,0 +1,15 @@
+[
+    {
+        "booking_id": "KD-001",
+        "guest_id": "326366127",
+        "guest_name": "boaz alago",
+        "room_number": "101",
+        "check_in_date": "2025-06-13",
+        "check_out_date": "2025-06-18",
+        "status": "checked in",
+        "paid": false,
+        "room_price": 100.0,
+        "total_price": 500.0,
+        "cancellation_fee": 0.0
+    }
+]

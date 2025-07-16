@@ -1,0 +1,27 @@
+test_booking_creation (test_booking.TestBooking.test_booking_creation) ... ok
+test_cancel_booking (test_booking.TestBooking.test_cancel_booking) ... ok
+test_checkout_after_payment (test_booking.TestBooking.test_checkout_after_payment) ... ok
+test_invalid_checkout_without_payment (test_booking.TestBooking.test_invalid_checkout_without_payment) ... ok
+test_mark_as_paid (test_booking.TestBooking.test_mark_as_paid) ... ok
+test_simple (test_booking.TestBooking.test_simple) ... ok
+test_total_price_calculation (test_booking.TestBooking.test_total_price_calculation) ... ok
+test_update_booking (test_booking.TestBooking.test_update_booking) ... ok
+test_delete_guest (test_guests.TestGuest.test_delete_guest) ... ok
+test_get_guest_info_static (test_guests.TestGuest.test_get_guest_info_static) ... ok
+test_guest_change (test_guests.TestGuest.test_guest_change) ... ok
+test_guest_creation (test_guests.TestGuest.test_guest_creation) ... ok
+test_guest_info (test_guests.TestGuest.test_guest_info) ... ok
+test_guest_type_and_discount (test_guests.TestGuest.test_guest_type_and_discount) ... ok
+test_guest_update_static (test_guests.TestGuest.test_guest_update_static) ... ok
+test_delete_room (test_rooms.TestRoom.test_delete_room) ... ok
+test_from_dict (test_rooms.TestRoom.test_from_dict) ... ok
+test_list_rooms (test_rooms.TestRoom.test_list_rooms) ... ok
+test_repr (test_rooms.TestRoom.test_repr) ... ok
+test_room_initialization (test_rooms.TestRoom.test_room_initialization) ... ok
+test_to_dict (test_rooms.TestRoom.test_to_dict) ... ok
+test_update_room (test_rooms.TestRoom.test_update_room) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.006s
+
+OK
